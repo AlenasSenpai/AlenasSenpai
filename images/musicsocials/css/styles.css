@@ -1,0 +1,24 @@
+.icon-apple-music, 
+.icon-spotify, 
+.icon-youtube-play, 
+.icon-bandcamp-button
+ {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+    vertical-align: -0.1em;
+}
+
+.icon-apple-music>svg, 
+.icon-spotify>svg, 
+.icon-youtube-play>svg, 
+.icon-bandcamp-button>svg
+ {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+    vertical-align: -0.1em;
+}
+
